@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePranavPurankar
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++, Google Cloud, and Cloud native application development.
+- 🌱 I’m currently learning C++, Google Cloud, and Cloud-native application development.
 - 📫 How to reach me pranav.purankar@gmail.com
 
 <!---
